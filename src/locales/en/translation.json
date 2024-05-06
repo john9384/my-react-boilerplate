@@ -1,0 +1,33 @@
+{
+  "common": {
+    "ok": "Ok",
+    "cancel": "Cancel",
+    "close": "Close",
+    "done": "Done",
+    "refresh": "Refresh",
+    "back": "Back",
+    "next": "Next",
+    "yes": "Yes",
+    "no": "No",
+    "error": "Error"
+  },
+  "error": {
+    "oops": "Oops! Something went wrong",
+    "reload": "Reload thep page. If it persists contact support",
+    "pageNotFound": "The page you are looking for is not found",
+    "goBack": "Go back",
+    "notFound": "Page not found"
+  },
+  "layout": {
+    "topbar": {
+      "profile": "Profile",
+      "logout": "Logout",
+      "notification": "Notifications"
+    },
+    "sidebar": {
+      "home": "Home",
+      "profile": "Profile",
+      "settings": "Settings"
+    }
+  }
+}
